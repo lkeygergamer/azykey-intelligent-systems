@@ -1,0 +1,17 @@
+scikit-learn
+numpy
+pandas
+pytest
+seaborn
+pyyaml
+jinja2
+matplotlib
+tpot
+shap
+lime
+evidently
+streamlit
+openai
+aif360
+fairlearn
+tiktoken 

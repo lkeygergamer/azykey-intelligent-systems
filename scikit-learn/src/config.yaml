@@ -1,0 +1,9 @@
+# Configuração do pipeline scikit-learn
+cv: 5
+model_path: pipeline.joblib
+plot_cm: true
+test_size: 0.2
+random_state: 42
+n_estimators: 100
+dataset: iris
+online_learning: false 

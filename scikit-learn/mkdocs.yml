@@ -1,0 +1,11 @@
+site_name: scikit-learn Pipeline
+nav:
+  - Início: index.md
+  - Guia Rápido: guia_rapido.md
+  - Estrutura do Projeto: estrutura.md
+  - Configuração: configuracao.md
+  - Uso Avançado: avancado.md
+  - API: api.md
+theme:
+  name: material
+  language: pt 
