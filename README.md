@@ -26,7 +26,6 @@ Sinta-se à vontade para contribuir!
 
 
 
-Aqui está o framework completo em Markdown, otimizado para visualização no GitHub com renderização matemática correta:
 
 
 # Framework de Avaliação de Sistemas de IA
